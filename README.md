@@ -1,23 +1,13 @@
-# Hi there 👋
-
-Welcome to my GitHub profile! 👋🏼
-
-I'm passionate about new technologies and programming. I mainly code in **Python** 🐍, focusing on areas related to
-**Data Science** and **Artificial Intelligence** ⛏. I'm also interested in **Web technologies** 🌐 and anything related
-to
-computer science.
-
-I'm currently a student at the [Université de Technologie de Belfort Montbéliard](https://www.utbm.fr/) in the last
-year.
+# Welcome to my GitHub profile!
+I'm passionate about new technologies and programming. I am a passionate computer science hobbyist, and am currently a student in high school. I enjoy all forms of programming, including web dev in Sveltekit, game dev in Unity, Godot, and custom engines in Rust with wgpu.
 
 ## 📫 How to reach me
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/thibault-chausson/) or by email
-at `chausson.thibault@laposte.net`.
+You can reach me by email at `jaxbulbrook@gmail.com`.
 
 ## 📈 Statistics
 
-[![Total Coding Time](https://wakatime.com/badge/user/018d7113-d2bf-4e97-ba7a-7766b261c1fa.svg)](https://wakatime.com/@018d7113-d2bf-4e97-ba7a-7766b261c1fa)
+<!--[![Total Coding Time](https://wakatime.com/badge/user/018d7113-d2bf-4e97-ba7a-7766b261c1fa.svg)](https://wakatime.com/@018d7113-d2bf-4e97-ba7a-7766b261c1fa)-->
 
 <div style="text-align: center">
     <span>&emsp;&emsp;</span>
@@ -54,40 +44,7 @@ I have several projects on my GitHub profile, such as:
   am currently developing a module to create questionnaires similar to GForm (work in
   progress). ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![auth0](https://img.shields.io/badge/-auth0-000?&logo=auth0) ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=chart.js)
 
-## 📚 Languages
+## 📚 Languages and Frameworks
 
-I program mainly in Python, but I also have experience in C, C++, OCaml, PL/SQL, SQL, JavaScript, HTML, PHP, CSS, ...
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-000?&logo=Oracle)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
-
-## 🛠 Tools and Frameworks
-
-I use a lot of tools and frameworks in my projects, such as Git, Node.js, Angular, PyTorch, TensorFlow, ...
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![CuDa](https://img.shields.io/badge/-CuDa-000?&logo=nvidia)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
-![JetBrains](https://img.shields.io/badge/-JetBrains-000?&logo=JetBrains)
+Languages: Rust, HTML, CSS/Tailwind, Javascript/Typescript, C#, and Python.
+Frameworks: wgpu, SvelteKit, Supabase, PyTorch, Unity, Godot
