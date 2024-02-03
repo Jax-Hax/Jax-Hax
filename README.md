@@ -21,9 +21,9 @@ at `chausson.thibault@laposte.net`.
 
 <div style="text-align: center">
     <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=thibault-chausson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jax-hax&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-chausson&hide=jupyter%20notebook&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jax-hax&hide=jupyter%20notebook&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
     <span>&emsp;&emsp;</span>
 </div>
 
